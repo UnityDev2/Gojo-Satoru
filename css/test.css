@@ -1,0 +1,21 @@
+body{
+	background-color: paleturquoise;
+}
+
+h1{
+	font: 30px;
+	color: teal;
+}
+.big{
+	font-size: 40px;
+	color: indianred;
+}
+
+.uppercase{
+	text-transform: uppercase;
+	color: greenyellow;
+}  
+
+span{
+	color: blueviolet;
+}
